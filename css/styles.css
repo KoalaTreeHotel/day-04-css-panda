@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(241, 232, 232);
+}
+
+section {
+  margin: 30px 30px;
+}
+
+header {
+  background-color: rgb(145, 157, 208);
+  margin: 10px 10px;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: rgb(183, 174, 174);
+}
+
+footer {
+  font-style: italic;
+  margin: 25px 20px;
+}
+
+/* floating image in section with the clearfix hack */
+.myimage {
+  float: right;
+  display: block;
+  margin: 20px 10px;
+  width: 20%;
+}
+.clearfix {
+  overflow: auto;
+}
