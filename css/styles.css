@@ -1,5 +1,7 @@
+/***** element selectors *****/
 body {
-  background-color: rgb(241, 232, 232);
+  background-color: rgb(205, 202, 202);
+  font-family: 'Montserrat', sans-serif;
 }
 
 section {
@@ -7,17 +9,8 @@ section {
 }
 
 header {
-  background-color: rgb(145, 157, 208);
+  background-color: rgb(196, 121, 174);
   margin: 10px 10px;
-}
-
-aside {
-  width: 30%;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
-  font-style: italic;
-  background-color: rgb(183, 174, 174);
 }
 
 footer {
@@ -25,13 +18,31 @@ footer {
   margin: 25px 20px;
 }
 
-/* floating image in section with the clearfix hack */
+
+/***** ID selectors *****/
+#my-aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  float: right;
+  font-style: italic;
+  background-color: rgb(145, 178, 210);
+  color:rgb(65, 66, 68)
+}
+
+
+/***** class selectors *****/
 .myimage {
   float: right;
   display: block;
   margin: 20px 10px;
   width: 20%;
 }
+/* floating image in section with the clearfix hack */
 .clearfix {
   overflow: auto;
 }
+
+/* import font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
