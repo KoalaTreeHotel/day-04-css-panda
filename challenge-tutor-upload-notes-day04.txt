@@ -1,1 +1,1 @@
-I added a bit more CSS (to my day-03 code) to complete the challenge.
+Using the page from the day03 challenge as a base, a bit more CSS styling has been added to complete the day04 challenge.

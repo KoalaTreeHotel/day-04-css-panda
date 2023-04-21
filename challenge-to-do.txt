@@ -1,5 +1,3 @@
-https://koalatreehotel.github.io/day-04-css-panda/
-
 CSS - Day 1 - Challenge:
 
 Add some CSS styling to your Semantic HTML webpage from yesterday's challenge.
