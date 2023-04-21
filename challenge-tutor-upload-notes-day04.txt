@@ -1,8 +1,1 @@
--- Day 4 challenge 
 I added a bit more CSS (to my day-03 code) to complete the challenge.
-
--- View webpage:
-https://koalatreehotel.github.io/week01-day04-css-panda/
-
--- View all repos:
-https://github.com/KoalaTreeHotel?tab=repositories
